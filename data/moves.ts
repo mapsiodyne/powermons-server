@@ -22003,6 +22003,27 @@ export const Moves: {[moveid: string]: MoveData} = {
 		type: "Electric",
 		contestType: "Cool",
 	},
+		hollowpurple: {
+		num: 80085,
+		accuracy: 100,
+		basePower: 270,
+		category: "Special",
+		name: "Hollow Purple",
+		pp: 1,
+		priority: -1,
+		flags: {protect: 1, mirror: 1, metronome: 1},
+		secondary: {
+			chance: 100,
+			self: {
+				boosts: {
+					spd: 3,
+				},
+			},
+		},
+		target: "normal",
+		type: "Normal",
+		contestType: "Tough",
+	},
 	zippyzap: {
 		num: 729,
 		accuracy: 100,

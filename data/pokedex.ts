@@ -17920,6 +17920,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		heightm: 1.2,
 		weightkg: 30,
 		color: "Yellow",
+		evos: ["Ghojo"],
 		prevo: "Gimmighoul",
 		evoType: "other",
 		evoCondition: "Level up with 999 Coins in the bag",

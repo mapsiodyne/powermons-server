@@ -6794,6 +6794,11 @@ export const MovesText: {[k: string]: MoveText} = {
 		desc: "If the user is Terastallized, this move becomes a physical attack if the user's Attack is greater than its Special Attack, including stat stage changes, and this move's type becomes the same as the user's Tera Type. In addition, if the user's Tera Type is Stellar, this move has 100 power, is super effective against Terastallized targets and neutral against other targets, and lowers the user's Attack and Special Attack by 1 stage.",
 		shortDesc: "If Terastallized: Phys. if Atk > SpA, type = Tera.",
 	},
+	hollowpurple: {
+		name: "Hollow Purple",
+		desc: "Usually goes last, raises user's Special Defense by 3 stages.",
+		shortDesc: "If Terastallized: Phys. if Atk > SpA, type = Tera.",
+	},
 	terastarstorm: {
 		name: "Tera Starstorm",
 		desc: "If the user is a Terapagos in Stellar Form, this move's type becomes Stellar and hits all opposing Pokemon.",

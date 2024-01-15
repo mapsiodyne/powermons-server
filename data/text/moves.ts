@@ -6797,7 +6797,7 @@ export const MovesText: {[k: string]: MoveText} = {
 	hollowpurple: {
 		name: "Hollow Purple",
 		desc: "Usually goes last, raises user's Special Defense by 3 stages.",
-		shortDesc: "If Terastallized: Phys. if Atk > SpA, type = Tera.",
+		shortDesc: "Usually goes last, raises user's Special Defense by 3 stages.",
 	},
 	terastarstorm: {
 		name: "Tera Starstorm",

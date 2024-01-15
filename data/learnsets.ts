@@ -90776,6 +90776,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			thunderpunch: ["9M"],
 			thunderwave: ["9M"],
 			trick: ["9M"],
+			hollowpurple: ["9M"],
 		},
 	},
 	greattusk: {

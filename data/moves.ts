@@ -22021,7 +22021,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 			},
 		},
 		target: "normal",
-		type: "Normal",
+		type: "Ghost",
 		contestType: "Tough",
 	},
 	zippyzap: {
